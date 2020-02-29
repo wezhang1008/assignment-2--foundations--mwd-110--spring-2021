@@ -4,7 +4,6 @@
 * **Do not start this project until you have read these instructions carefully.**
 
 ## Introduction
-
 This assignment extends on your first assignment by applying basic principles of design using CSS.
 
 ## Before You Begin
