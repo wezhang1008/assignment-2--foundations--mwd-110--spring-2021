@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This assignment extends on your second assignment by applying basic principles of design using CSS.
+This assignment extends on your first assignment by applying basic principles of design using CSS.
 
 ## Before You Begin
 1. Log in to GitHub.
