@@ -1,0 +1,30 @@
+body {
+   background-color: #6699ff;
+}
+
+h1, h2 {
+   color: red;
+   font-family: "Arial";
+}
+
+p {
+   font-family: "Verdana";
+}
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  padding: 10px 10px;
+  text-decoration: none;
+}
+
+#hero {
+   max-width: 100%;
+}
