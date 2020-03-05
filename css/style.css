@@ -1,6 +1,4 @@
 
-
-
 img {
   max-width: 100%;
   height: auto;
@@ -13,22 +11,24 @@ img {
 
 body {
    font-family: 'Oxanium', cursive;
+   text-align: center;
 
-  background-color: pink;
-  background-image: url('../img/hero-image.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+   background-color: pink;
+   background-image: url('../img/hero-image.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
 }
 
 h1 {
+   text-align: center;
    font-family: 'Cousine', monospace;
    font-weight: bold;
-  padding: 12px;
-  background-color: rgba(100%, 100%, 100%, 50%);
+   padding: 12px;
+   background-color: rgba(100%, 100%, 100%, 50%);
 }
 
 header li a {
-    color: black;
-    text-decoration: none;
+   color: black;
+   text-decoration: none;
 }
