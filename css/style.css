@@ -8,10 +8,20 @@ img {
   width: 50%;
 }
 
+h1 {
+   text-align: center;
+   font-family: 'Cousine', monospace;
+   font-weight: bold;
+   padding: 12px;
+   background-color: rgba(100%, 100%, 100%, 50%);
+}
 
 body {
    font-family: 'Oxanium', cursive;
    text-align: center;
+   width: auto;
+   height: auto;
+   width: 100%;
 
    background-color: pink;
    background-image: url('../img/hero-image.jpg');
@@ -20,13 +30,7 @@ body {
    background-attachment: fixed;
 }
 
-h1 {
-   text-align: center;
-   font-family: 'Cousine', monospace;
-   font-weight: bold;
-   padding: 12px;
-   background-color: rgba(100%, 100%, 100%, 50%);
-}
+
 
 header li a {
    color: black;
