@@ -1,6 +1,18 @@
 body {
   font-family: serif;
   font-size: 2rem;
-  color: black;
+  color: white;
   background-color: lightblue;
+  background-image: url('../img/hero.jpg');
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+a:link {
+  text-decoration: underline;
+}
+a:visited {
+  background-color: lightblue;
+  color: green;
 }
