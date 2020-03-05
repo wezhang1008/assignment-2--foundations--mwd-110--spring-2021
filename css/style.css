@@ -1,6 +1,6 @@
 body {
    font-family: 'Alfa+Slab+One';
-   font-weight: bold;
+
   background-color: pink;
   background-image: url('../img/hero-image.jpg');
   background-repeat: repeat;
@@ -9,6 +9,7 @@ body {
 
 h1 {
    font-family: 'Cousine', sans-serif;
+   font-weight: bold;
   padding: 12px;
   background-color: rgba(100%, 100%, 100%, 50%);
 }
