@@ -15,5 +15,15 @@ h1{
   padding-bottom: 125px;
 }
 nav{
+  text-shadow: 3px 2px grey;
   text-align: center;
+  font-family: 'Acme', sans-serif;
+  font-size: 30px;
+  word-spacing: 340px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+a{
+  background-color: inherit;
+  color: white;
 }
