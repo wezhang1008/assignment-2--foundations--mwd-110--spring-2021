@@ -38,7 +38,14 @@ body {
    background-attachment: fixed;
 }
 
-
+main{
+   padding-top: 50px
+   padding-top: 50px;
+   padding-right: 200px;
+   padding-bottom: 50px;
+   padding-left: 200px;
+   background-color: rgba(80%, 80%, 80%, 50%);
+}
 
 
 header li a {
