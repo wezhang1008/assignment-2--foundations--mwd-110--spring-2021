@@ -25,6 +25,7 @@ header
    padding: 10px;
    background-color: rgba(80%, 80%, 80%, 50%);
    font-size: large;
+   border: solid 5px;
 }
 
 body {
@@ -44,7 +45,7 @@ main{
    padding-bottom: 10px;
    padding-left: 200px;
    background-color: rgba(80%, 80%, 80%, 95%);
-   border: solid;
+   border: solid 5px;
 }
 footer{
    padding-top: 50px;
