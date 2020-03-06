@@ -1,7 +1,12 @@
+body{
+  background-color: rgb(226, 249, 251);
+  color: white;
+  text-shadow: 2px 2px rgb(218, 220, 198);
+}
 header{
   background-image: url(../img/creative-commons.jpg);
   background-position: center;
-  background-repeat: space;
+  background-size: cover;
   height: 350px;
 }
 h1{
@@ -12,18 +17,26 @@ h1{
   background-color: rgba(100%,100%,100%,30%);
   color: white;
   padding-top: 125px;
-  padding-bottom: 125px;
+  padding-bottom: 100px;
 }
 nav{
+  background-color: rgba(100%, 100%, 100%, 70%);
+  color: inherit;
   text-shadow: 3px 2px grey;
   text-align: center;
   font-family: 'Acme', sans-serif;
   font-size: 30px;
   word-spacing: 340px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 15px;
 }
 a{
   background-color: inherit;
   color: white;
+}
+h2{
+  font-family: 'Bitter', serif;
+}
+p{
+  font-family: 'Bitter', serif;
 }
