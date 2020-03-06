@@ -22,7 +22,7 @@ h1 {
 }
 header
 {
-   padding: 12px;
+   padding: 10px;
    background-color: rgba(80%, 80%, 80%, 50%);
    font-size: large;
 }
@@ -37,6 +37,7 @@ body {
    background-size: cover;
    background-attachment: fixed;
 }
+
 
 
 
