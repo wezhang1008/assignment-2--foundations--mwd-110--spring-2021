@@ -43,8 +43,10 @@ main{
    padding-right: 200px;
    padding-bottom: 10px;
    padding-left: 200px;
-   background-color: rgba(80%, 80%, 80%, 50%);
+   background-color: rgba(80%, 80%, 80%, 95%);
+   border: solid;
 }
 footer{
    padding-top: 50px;
+   padding-bottom: 50px;
 }
