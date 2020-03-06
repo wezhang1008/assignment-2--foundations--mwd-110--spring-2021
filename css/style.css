@@ -24,14 +24,15 @@ header
 {
    padding: 12px;
    background-color: rgba(80%, 80%, 80%, 50%);
+   font-size: large;
 }
 
 body {
    font-family: 'Oxanium', cursive;
    text-align: center;
-
    background-color: pink;
    background-image: url('../img/hero-image.jpg');
+   background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
    background-attachment: fixed;
