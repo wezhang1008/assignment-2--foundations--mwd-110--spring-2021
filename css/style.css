@@ -20,6 +20,11 @@ h1 {
    padding: 12px;
    background-color: rgba(100%, 100%, 100%, 50%);
 }
+header
+{
+   padding: 12px;
+   background-color: rgba(80%, 80%, 80%, 50%);
+}
 
 body {
    font-family: 'Oxanium', cursive;
