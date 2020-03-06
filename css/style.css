@@ -5,10 +5,15 @@ header{
   height: 350px;
 }
 h1{
-  font-family: 'Handlee', cursive;
+  font-family: 'Acme', sans-serif;
   font-size: 100px;
+  text-shadow: 3px 3px grey;
   text-align: center;
-  background-color: rgba(100%,100%,100%,50%);
-  color: black;
-  padding-top: 20px
+  background-color: rgba(100%,100%,100%,30%);
+  color: white;
+  padding-top: 125px;
+  padding-bottom: 125px;
+}
+nav{
+  text-align: center;
 }
