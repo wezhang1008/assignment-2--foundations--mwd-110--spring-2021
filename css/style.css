@@ -1,13 +1,12 @@
 body {
-   background-color: #93D4EB;
-   color: #1F1F1F;
-   padding: 0;
-   background: url('../img/hero.jpg') no-repeat fixed 0 0 / cover;
+  background: #9334eb url('../img/hero.jpg') no-repeat fixed 0 0 / cover;
+  color: #1f1f1f;
+  padding: 0;
 }
 
 #home .hero {
-   margin: 0;
-   padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 #home .hero-inner h1 {
@@ -16,7 +15,7 @@ body {
 }
 
 #home .hero-inner nav {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 18px;
   padding-left: 52%;
 }
@@ -30,9 +29,9 @@ body {
 
 header {
   text-align: center;
-  background-color: #FFE87A;
-  color: #1F1F1F;
-  border: 5px outset #FFF07A;
+  background-color: #ffe87a;
+  color: #1f1f1f;
+  border: 5px outset #fff07a;
   border-radius: 60px;
   margin: auto;
   width: 944px;
@@ -45,13 +44,13 @@ nav {
 }
 
 h1 {
-  font-family: 'Righteous', cursive;
+  font-family: Righteous, cursive;
   font-size: 40px;
 }
 
 h2 {
   text-align: center;
-  font-family: 'Righteous', cursive;
+  font-family: Righteous, cursive;
   font-size: 30px;
 }
 
@@ -65,7 +64,7 @@ section {
 
 p {
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 18px;
 }
 
