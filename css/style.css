@@ -36,6 +36,7 @@ header {
    text-align: center;
    background-color: #FFE87A;
    color: #1F1F1F;
+   border: 5px outset #FFF07A;
    margin: auto;
    width: 944px;
    height: 130px;
