@@ -50,7 +50,7 @@ a{
 p{
   background-color: inherit;
   font-family: 'Viaoda Libre', cursive;
-  font-size: 25px;
+  font-size: 35px;
   text-indent: 50px;
   text-align: justify;
   color: grey;
@@ -62,4 +62,17 @@ ul{
   font-family: 'Bitter', serif;
   font-size: 30px;
   color: grey;
+}
+#jabberwocky{
+  float: left;
+  word-wrap: break-word;
+  word-break: break-all;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-top: 20px;
+}
+#bree{
+  float: right;
+  padding-left: 40px;
+  padding-right: 40px;
 }
