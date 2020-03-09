@@ -1,73 +1,76 @@
 body {
    background-color: #93D4EB;
    color: #1F1F1F;
-   border: 10px dotted #FFF07A;
-   border-radius: 20px;
-   width: 1440px;
-   margin: auto;
-   padding: .5%;
- }
- .hero{
+   padding: 0;
+   background: url('../img/hero.jpg') no-repeat fixed 0 0 / cover;
+}
+
+#home .hero {
    margin: 0;
-   width: 100vw;
-   height: 100vh;
-   background-image: url('../img/hero.jpg');
-   background-repeat: no-repeat;
-   background-attachment: fixed;
-   background-position: 0 0;
-   background-size: cover;
- }
-.hero-inner h1{
+   padding: 0;
+}
+
+#home .hero-inner h1 {
   font-size: 50px;
   padding-left: 60%;
 }
-.hero-inner nav{
+
+#home .hero-inner nav {
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
   padding-left: 52%;
 }
-.hero-inner p{
+
+#home .hero-inner p {
   font-size: 16px;
   padding-left: 60%;
   padding-right: 9%;
   text-align: center;
 }
+
 header {
-   text-align: center;
-   background-color: #FFE87A;
-   color: #1F1F1F;
-   border: 5px outset #FFF07A;
-   border-radius: 60px;
-   margin: auto;
-   width: 944px;
-   height: 130px;
+  text-align: center;
+  background-color: #FFE87A;
+  color: #1F1F1F;
+  border: 5px outset #FFF07A;
+  border-radius: 60px;
+  margin: auto;
+  width: 944px;
+  height: 130px;
 }
+
 nav {
-   text-align: center;
-   font-size: 20px;
+  text-align: center;
+  font-size: 20px;
 }
+
 h1 {
-   font-family: 'Righteous', cursive;
-   font-size: 40px;
+  font-family: 'Righteous', cursive;
+  font-size: 40px;
 }
+
 h2 {
-   text-align: center;
-   font-family: 'Righteous', cursive;
-   font-size: 30px;
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  font-size: 30px;
 }
+
 h3 {
-   text-align: center;
+  text-align: center;
 }
+
 section {
-   padding: 1%;
+  padding: 1%;
 }
+
 p {
-   text-align: center;
-   font-family: 'Montserrat', sans-serif;
-   font-size: 18px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
 }
+
 img.center {
-display: block;
-margin-left: auto;
-margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
