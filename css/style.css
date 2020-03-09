@@ -23,7 +23,9 @@ body {
 }
 .hero-inner p{
   font-size: 16px;
-padding-left: 30%;
+  padding-left: 60%;
+  padding-right: 9%;
+  text-align: center;
 }
 header {
    text-align: center;
