@@ -21,6 +21,9 @@ body {
   font-size: 50px;
   padding-left: 60%;
 }
+.hero-inner p{
+  font-size: 16px;
+padding-left: 30%;
 }
 header {
    text-align: center;
