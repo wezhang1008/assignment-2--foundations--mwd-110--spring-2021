@@ -6,6 +6,17 @@ body {
    width: 1440px;
    margin: auto;
    padding: .5%;
+ }
+.hero{
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('../img/hero.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 0 0;
+  background-size: cover;
+}
 }
 header {
    text-align: center;
