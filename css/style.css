@@ -59,6 +59,8 @@ p{
 }
 ul{
   background-color: inherit;
+  text-align: center;
+  list-style-type: none;
   font-family: 'Bitter', serif;
   font-size: 30px;
   color: grey;
