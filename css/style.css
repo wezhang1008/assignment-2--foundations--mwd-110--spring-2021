@@ -45,7 +45,8 @@ nav{
 a{
   background-color: rgba(255, 255, 255, 1%);
   color: rgb(215, 197, 229);
-  text-shadow: 2px 2px rgb(211, 229, 197);
+  font-style: italic;
+  text-shadow: 1px 1px grey;
 }
 p{
   background-color: inherit;
@@ -65,6 +66,14 @@ ul{
   font-size: 30px;
   color: grey;
 }
+footer{
+  background-color: inherit;
+  color: grey;
+  font-style: oblique;
+  font-size: 25px;
+  font-family: 'Viaoda Libre', cursive;
+  text-align: center;
+}
 #jabberwocky{
   float: left;
   word-wrap: break-word;
@@ -78,4 +87,7 @@ ul{
   padding-left: 40px;
   padding-right: 40px;
   filter: saturate(125%);
+}
+#image{
+  text-align: center;
 }
