@@ -14,7 +14,7 @@ header{
   height: 375px;
 }
 h1{
-  font-family: 'Acme', sans-serif;
+  font-family: 'Bellota', cursive;
   font-size: 100px;
   text-shadow: 3px 3px grey;
   text-align: center;
@@ -24,29 +24,42 @@ h1{
   padding-bottom: 125px;
 }
 h2{
-  font-family: 'Acme', sans-serif;
+  background-color: inherit;
+  color: white;
+  font-family: 'Bellota', cursive;
   font-size: 50px;
+  text-shadow: 3px 3px grey;
   text-align: center;
 }
 nav{
   background-color: rgba(100%, 100%, 100%, 50%);
   color: inherit;
-  text-shadow: 3px 2px grey;
-  text-align: center;
-  font-family: 'Acme', sans-serif;
-  font-size: 30px;
+  text-shadow: 3px 2px white;
+  text-align:  center;
+  font-family: 'Bellota', cursive;
+  font-size: 35px;
   word-spacing: 340px;
   padding-top: 20px;
   padding-bottom: 20px;
 }
 a{
   background-color: rgba(255, 255, 255, 1%);
-  color:white;
+  color: rgb(215, 197, 229);
+  text-shadow: 2px 2px rgb(211, 229, 197);
 }
 p{
+  background-color: inherit;
+  font-family: 'Viaoda Libre', cursive;
+  font-size: 25px;
+  text-indent: 50px;
+  text-align: justify;
+  color: grey;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+ul{
   background-color: inherit;
   font-family: 'Bitter', serif;
   font-size: 30px;
   color: grey;
-
 }
