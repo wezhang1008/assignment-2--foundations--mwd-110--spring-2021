@@ -90,3 +90,7 @@ footer{
   filter: saturate(125%);
   border-radius: 50%;
 }
+#image{
+  text-align: center;
+
+}
