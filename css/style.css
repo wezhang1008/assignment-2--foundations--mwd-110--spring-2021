@@ -37,6 +37,15 @@
   margin: auto;
   padding: .5%;
 }
+
+#about .about-body {
+  background: #fff491;
+  color: inherit;
+  overflow: hidden;
+  height: 100%;
+  z-index: 2;
+}
+
 header {
   text-align: center;
   background-color: #ffe87a;
