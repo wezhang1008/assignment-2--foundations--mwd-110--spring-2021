@@ -27,6 +27,16 @@
   text-align: center;
 }
 
+#about,
+#contact {
+  background-color: #fff491;
+  color: inherit;
+  border: 15px dotted #5c90eb;
+  border-radius: 20px;
+  width: 1440px;
+  margin: auto;
+  padding: .5%;
+}
 header {
   text-align: center;
   background-color: #ffe87a;
