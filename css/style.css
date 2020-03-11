@@ -2,19 +2,27 @@ body {
   color: white;
   background-color: lightblue;
   background-image: url('../img/hero.jpg');
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: 50% 50%;
   background-size: cover;
-  font-family: 'Coda', cursive;
   font-size: 2rem;
 }
+h1{
+  background-color: transparent;
+  color: red;
+  font-family: 'Coda', cursive;
+}
+p{
+  background-color: transparent;
+  color: rgb(0, 255, 195);
+  font-family: 'Abel', sans-serif;
+}
 a:link {
-  font-family: 'Trade Winds', cursive;
+  background-color: transparent;
+  color: green;
   text-decoration: underline;
 }
 a:visited {
-  background-color: lightblue;
+  background-color: transparent;
   color: green;
-  font-family: 'Trade Winds', cursive;
 }
