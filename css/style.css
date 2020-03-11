@@ -112,4 +112,5 @@ border-width: 4px;
    position: relative; 
    left: 50%; 
    margin-left: -160px; 
+   padding: 4px;
 }
