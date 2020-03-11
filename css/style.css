@@ -87,7 +87,7 @@ border-width: 4px;
 .microphone-show-img {
    position: relative;
    left: 5%; 
-   top: -130px; 
+   top: -275px; 
    border-radius: 15px;
    border-style: ridge;
    border-width: 10px; 
@@ -111,5 +111,5 @@ border-width: 4px;
    max-height: 25%; 
    position: relative; 
    left: 50%; 
-   margin-left: -108px; 
+   margin-left: -160px; 
 }
