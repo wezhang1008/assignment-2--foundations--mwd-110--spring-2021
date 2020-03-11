@@ -17,6 +17,7 @@
 #home .hero-inner nav {
   font-family: Montserrat, sans-serif;
   font-size: 18px;
+  font-weight: 500;
   padding-left: 53%;
 }
 
@@ -85,6 +86,7 @@ p {
   text-align: center;
   font-family: Montserrat, sans-serif;
   font-size: 18px;
+  font-weight: 500;
 }
 
 img.center {
