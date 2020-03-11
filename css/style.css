@@ -47,6 +47,7 @@ a{
   color: rgb(215, 197, 229);
   font-style: italic;
   text-shadow: 1px 1px grey;
+  text-decoration: none;
 }
 p{
   background-color: rgba(197, 227, 229,10%);
@@ -92,5 +93,5 @@ footer{
 }
 #image{
   text-align: center;
-
+  
 }
