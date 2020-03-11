@@ -96,6 +96,22 @@ border-width: 4px;
    border-color: rgba(85%, 0%, 0%, 75%); 
 }
 .footer-nav {
-   
-   
+   font-family: 'Fjalla One', sans-serif;
+   padding: 5px; 
+   position: relative; 
+   width: 250px; 
+   left: 50%; 
+   background-color: black;
+   border-color: yellow; 
+   border-style: dotted; 
+   margin-left: -87px; 
+   text-align: center; 
+   text-decoration-color: white; 
+}
+.social-media-img {
+   max-width: 25%; 
+   max-height: 25%; 
+   position: relative; 
+   left: 50%; 
+   margin-left: -108px; 
 }
