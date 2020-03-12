@@ -1,11 +1,13 @@
 body {
   color: white;
-  background-color: lightblue;
+  background-color: rgb(66, 135, 245);
+  font-size: 2rem;
+}
+#home{
   background-image: url('../img/hero.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  font-size: 2rem;
 }
 h1{
   background-color: transparent;
@@ -19,7 +21,7 @@ p{
 }
 a:link {
   background-color: transparent;
-  color: green;
+  color: lime;
   text-decoration: underline;
 }
 a:visited {
