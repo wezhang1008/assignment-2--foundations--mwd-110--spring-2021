@@ -7,7 +7,7 @@ p {
    font-family: 'Work Sans', sans-serif;
 }
 
-heading {
+h1,h2,h3,h4,h5,h6 {
    color: #B83B21;
    font-family: 'Roboto', sans-serif;
 }
