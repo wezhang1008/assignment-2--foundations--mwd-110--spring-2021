@@ -4,14 +4,16 @@ body {
 
 p {
    color: #B83B21;
+   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) );
    font-family: 'Work Sans', sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6 {
    color: #B83B21;
+   background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) );
    font-family: 'Roboto', sans-serif;
 }
 
 #home {
-   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../img/freshmen-bg.jpg') no-repeat fixed 0 0 / cover;
+   background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('../img/freshmen-bg.jpg') no-repeat fixed 0 0 / cover;
 }
