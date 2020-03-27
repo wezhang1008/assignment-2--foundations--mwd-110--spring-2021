@@ -11,3 +11,7 @@ h1,h2,h3,h4,h5,h6 {
    color: #B83B21;
    font-family: 'Roboto', sans-serif;
 }
+
+#home {
+   background: transparent url('../img/freshmen_bg') no-repeat fixed 0 0 / cover;
+}
