@@ -13,5 +13,5 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #home {
-   background: linear-gradient( rgba(0, 0, 0, 1.5), rgba(0, 0, 0, 1.5) ), url('../img/freshmen-bg.jpg') no-repeat fixed 0 0 / cover;
+   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../img/freshmen-bg.jpg') no-repeat fixed 0 0 / cover;
 }
