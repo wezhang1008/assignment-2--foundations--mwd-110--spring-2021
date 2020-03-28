@@ -1,0 +1,29 @@
+body {
+  background-color: #008ACA;
+
+  background-image: url('../img/3160803361_a425d15abf_k-2.jpg');
+  font-family: 'Chakra Petch', sans-serif;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: cover;
+  font-family: 'Comfortaa',fantasy ;
+  font-weight: 700;
+  color: #FF5A3D;
+}
+h1 {
+  font-family: 'Trade Winds', cursive;
+  font-weight: bold;
+  color: #008ACA
+}
+h2 {
+  font-family: 'Trade Winds', cursive;
+  font-weight: bold;
+  color: #008ACA
+}
+
+h1,
+footer {
+  padding: 12px;
+  background-color: rgba(51%, 190%, 225%, 20%);
+}
