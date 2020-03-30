@@ -25,5 +25,16 @@ My name is Angelica. I am from Connecticut and I am also Puerto Rican. I love pl
  <a href="/about.html/">About</a> |
 </nav> 
 </body>
-
+color: rgb(200, 100, 230);
+ font-style: bold;
+ font-style: italic;
+ text-shadow: 1px 1px grey;
+ text-shadow: 1px 1px grey;
+ text-decoration: none;
+}
+}
+p{
+p{
+ background-color: rgba(225, 225, 225,10%);
+ background-color: rgba(225, 225, 225,10%);
 </html>
