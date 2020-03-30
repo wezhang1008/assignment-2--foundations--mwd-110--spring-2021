@@ -1,3 +1,8 @@
 #hero {
    background: url('../img/couch.png') no-repeat fixed 0 0 / cover;
 }
+
+#plain {
+   background-color: rgb(252, 199, 233);
+}
+}
