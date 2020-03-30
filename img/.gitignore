@@ -2,5 +2,5 @@
 
 !.gitignore
 !*.jpg
-!*.jpeg
+!*.linalg_great_circle.png
 !*.png
