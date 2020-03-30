@@ -1,4 +1,3 @@
-#home {
-   background-image: url('img/couch.png');
-   background-position: center;
+#hero {
+   background: url('../img/couch.png') no-repeat fixed 0 0 / cover;
 }
