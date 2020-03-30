@@ -23,8 +23,10 @@ a:link {
   background-color: transparent;
   color: lime;
   text-decoration: underline;
+  font-family: 'Coda', cursive;
 }
 a:visited {
   background-color: transparent;
   color: green;
+  font-family: 'Coda', cursive;
 }
