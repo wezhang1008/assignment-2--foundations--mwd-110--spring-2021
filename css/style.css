@@ -1,0 +1,54 @@
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+h1 {
+   text-align: center;
+   font-family: 'Cousine', monospace;
+   font-weight: bold;
+   padding: 12px;
+   background-color: rgba(100%, 100%, 100%, 50%);
+}
+header
+{
+   padding: 10px;
+   background-color: rgba(80%, 80%, 80%, 50%);
+   font-size: large;
+   border: solid 2px;
+   border-color: rgba(82%, 70%, 54%, 50%);
+}
+
+body {
+   font-family: 'Oxanium', cursive;
+   text-align: center;
+   background-color: pink;
+   background-image: url('../img/hero-image.jpg');
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+}
+
+main{
+   padding-top: 10px;
+   padding-right: 200px;
+   padding-bottom: 10px;
+   padding-left: 200px;
+   background-color: rgba(80%, 80%, 80%, 95%);
+   border: solid 2px;
+}
+footer{
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
