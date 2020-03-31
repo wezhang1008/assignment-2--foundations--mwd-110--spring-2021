@@ -1,5 +1,6 @@
 #hero {
    background: url('../img/couch.png') no-repeat fixed 0 0 / cover;
+   width: 50vw;
 }
 
 #plain {
