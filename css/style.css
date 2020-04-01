@@ -1,39 +1,26 @@
 .headings {
-   
-   font-family: 'Roboto', sans-serif; 
-   color: #000060
-   
-}
-
-.border {
-   padding: 10px;
-   background-color: rgba(255, 255, 255, 0.5);
+   font-family: 'Roboto', sans-serif;
+   color: #000060;
 }
 
 .text {
    font-family: 'Oswald', sans-serif;
-   color: #000060
-
+   color: #000060;
 }
 
 #home {
-   
    background: transparent url('../img/hero.jpg') no-repeat fixed 0 0 / cover;
 }
 
 #contact {
-   background-color: #6bb36b
-   
+   background-color: #6bb36b;
 }
 
 #about {
-   background-color: #6bb36b
-   
+   background-color: #6bb36b;
 }
 
 #footer {
-   font: italic 500 0.8rem /1.0 'Roboto', sans-serif;
-   color: #000060
-   
+   font: italic 500 .8rem /1 'Roboto', sans-serif;
+   color: #000060;
 }
-
