@@ -1,10 +1,10 @@
 .headings {
-   font-family: 'Roboto', sans-serif;
+   font-family: Roboto, sans-serif;
    color: #000060;
 }
 
 .text {
-   font-family: 'Oswald', sans-serif;
+   font-family: Oswald, sans-serif;
    color: #000060;
 }
 
@@ -21,6 +21,6 @@
 }
 
 #footer {
-   font: italic 500 .8rem /1 'Roboto', sans-serif;
+   font: italic 500 .8rem /1 Roboto, sans-serif;
    color: #000060;
 }
