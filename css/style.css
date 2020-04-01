@@ -1,11 +1,12 @@
 .headings {
    
    font-family: 'Roboto', sans-serif; 
-   
+   color: #007469
 }
 
 p {
    font-family: 'Oswald', sans-serif;
+   color: white
 }
 
 #home {
@@ -23,7 +24,3 @@ p {
    
 }
 
-.border {
-   padding: 10px;
-   background-color: rgba(152, 179, 255, 0.5);
-}
