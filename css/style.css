@@ -4,8 +4,13 @@
 }
 
 .headings {
+   
    font-family: 'Roboto', sans-serif; 
    
+}
+
+p {
+   font-family: 'Oswald', sans-serif;
 }
 
 #contact {
