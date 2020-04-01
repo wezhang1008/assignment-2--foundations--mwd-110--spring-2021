@@ -1,7 +1,13 @@
 .headings {
    
    font-family: 'Roboto', sans-serif; 
-   color: #007469
+   color: #00BBD1
+   
+}
+
+.border {
+   padding: 10px;
+   background-color: #D3B5FF
 }
 
 p {
@@ -15,12 +21,12 @@ p {
 }
 
 #contact {
-   background-color: #FF98B2 
+   background-color: #B64200
    
 }
 
 #about {
-   background-color: #98E0FF
+   background-color: #B64200
    
 }
 
