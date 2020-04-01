@@ -1,4 +1,6 @@
 #home {
+
+   font-family: 'Roboto', sans-serif; 
    background: transparent url('../img/hero.jpg') no-repeat fixed 0 0 / cover;
 }
 
