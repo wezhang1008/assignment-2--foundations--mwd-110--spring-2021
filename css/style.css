@@ -1,8 +1,3 @@
-#home {
-   
-   background: transparent url('../img/hero.jpg') no-repeat fixed 0 0 / cover;
-}
-
 .headings {
    
    font-family: 'Roboto', sans-serif; 
@@ -13,6 +8,11 @@ p {
    font-family: 'Oswald', sans-serif;
 }
 
+#home {
+   
+   background: transparent url('../img/hero.jpg') no-repeat fixed 0 0 / cover;
+}
+
 #contact {
    background-color: #FF98B2 
    
@@ -20,4 +20,10 @@ p {
 
 #about {
    background-color: #98E0FF
+   
+}
+
+.border {
+   padding: 10px;
+   background-color: rgba(152, 179, 255, 0.5);
 }
