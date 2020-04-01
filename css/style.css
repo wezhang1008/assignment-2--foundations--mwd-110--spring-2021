@@ -1,18 +1,19 @@
 .headings {
    
    font-family: 'Roboto', sans-serif; 
-   color: #00BBD1
+   color: #000060
    
 }
 
 .border {
    padding: 10px;
-   background-color: #D3B5FF
+   background-color: rgba(255, 255, 255, 0.5);
 }
 
 p {
    font-family: 'Oswald', sans-serif;
-   color: white
+   color: #000060
+
 }
 
 #home {
@@ -21,12 +22,12 @@ p {
 }
 
 #contact {
-   background-color: #B64200
+   background-color: #6bb36b
    
 }
 
 #about {
-   background-color: #B64200
+   background-color: #6bb36b
    
 }
 
