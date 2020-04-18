@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<meta name="Index" content="Main Page">
+<Title> Welcome to my page </Title>
+<head>
+<meta charset="UTF-8">
+<meta name="All About Angie" content="Get to know Angie"
+<body>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<head>
+<title>Index</title>
+ <link href="css/style.css" rel="stylesheet">
+ <link rel="stylesheet"
+  href="https://fonts.googleapis.com/css?family=scuffed-steel">
+
+   <h2>Me</h2>
+
+My name is Angelica. I am from Connecticut and I am also Puerto Rican. I love playing music and drawing bad cartoons and building things including electronic things. I am always looking to try new things.
+<nav>
+ <a href="/content.html/">Content</a> |
+ <a href="/index.html/">Index</a> |
+ <img src=Linalg_great_circle.png alt="spiral" width="300" height="300"
+ <img src="me.jpg" alt="Photo" width="500" height="500">
+ <a href="/about.html/">About</a> |
+</nav> 
+</body>
+color: rgb(200, 100, 229);
+ font-style: bold;
+ font-style: italic;
+ text-shadow: 1px 1px grey;
+ text-shadow: 1px 1px grey;
+ text-decoration: none;
+}
+}
+p{
+ background-color: rgba(225, 225, 225,10%);
+ background-color: rgba(225, 225, 225,10%);
+</html>
