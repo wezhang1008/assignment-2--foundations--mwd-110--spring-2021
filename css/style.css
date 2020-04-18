@@ -1,0 +1,32 @@
+body {
+  color: white;
+  background-color: rgb(66, 135, 245);
+  font-size: 2rem;
+}
+#home{
+  background-image: url('../img/hero.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1{
+  background-color: transparent;
+  color: red;
+  font-family: 'Coda', cursive;
+}
+p{
+  background-color: transparent;
+  color: rgb(0, 255, 195);
+  font-family: 'Abel', sans-serif;
+}
+a:link {
+  background-color: transparent;
+  color: lime;
+  text-decoration: underline;
+  font-family: 'Coda', cursive;
+}
+a:visited {
+  background-color: transparent;
+  color: green;
+  font-family: 'Coda', cursive;
+}
