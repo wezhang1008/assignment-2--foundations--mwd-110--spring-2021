@@ -1,0 +1,28 @@
+#hero {
+   background: url('../img/couch.png') no-repeat fixed 0 0 / cover;
+   width: 48vw;
+   min-width: 350px;
+}
+
+#plain {
+   color: rgb(97, 24, 94);
+   background-color: rgb(252, 199, 233);
+}
+
+ul{
+   list-style-type: none;
+}
+
+li {
+  display: inline;
+}
+
+h1 {
+   font-family: 'Poppins', sans-serif;
+}
+
+body {
+   color: rgb(97, 24, 94);
+   font-family: 'Sen', sans-serif;
+   background-color: inherit;
+}
