@@ -1,0 +1,17 @@
+body {
+   background-color: black;
+   background-image: url('../img/hero.jpg');
+   background-repeat: repeat;
+   background-attachment: fixed;
+   background-size: cover;
+}
+
+h1 {
+   font-family: 'Fira Sans', sans-serif;
+   color: rgb(255, 255, 255);
+}
+
+p {
+   font-family: 'Roboto Mono', monospace;
+   color: rgb(255, 255, 255);
+}
