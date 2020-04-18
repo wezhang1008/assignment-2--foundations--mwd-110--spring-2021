@@ -1,0 +1,97 @@
+body{
+  background-color: rgba(197, 227, 229,80%);
+  color: inherit;
+}
+header{
+  background-color: inherit;
+  color: white;
+  text-shadow: 2px 2px rgb(218, 220, 198);
+  background-image: url(../img/creative-commons.jpg);
+  background-blend-mode:  color-burn;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 375px;
+}
+h1{
+  font-family: 'Bellota', cursive;
+  font-size: 100px;
+  text-shadow: 3px 3px grey;
+  text-align: center;
+  background-color: rgba(100%,100%,100%,50%);
+  color: white;
+  padding-top: 125px;
+  padding-bottom: 125px;
+}
+h2{
+  background-color: rgba(197, 227, 229,10%);
+  color: white;
+  font-family: 'Bellota', cursive;
+  font-size: 50px;
+  text-shadow: 3px 3px grey;
+  text-align: center;
+}
+nav{
+  background-color: rgba(100%, 100%, 100%, 50%);
+  color: inherit;
+  text-shadow: 3px 2px white;
+  text-align:  center;
+  font-family: 'Bellota', cursive;
+  font-size: 35px;
+  word-spacing: 340px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+a{
+  background-color: rgba(255, 255, 255, 1%);
+  color: rgb(215, 197, 229);
+  font-style: italic;
+  text-shadow: 1px 1px grey;
+  text-decoration: none;
+}
+p{
+  background-color: rgba(197, 227, 229,10%);
+  font-family: 'Viaoda Libre', cursive;
+  font-size: 35px;
+  text-indent: 20px;
+  text-align: center;
+  color: grey;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+ul{
+  background-color: inherit;
+  text-align: center;
+  list-style-type: none;
+  font-family: 'Bitter', serif;
+  font-size: 30px;
+  color: grey;
+}
+footer{
+  background-color: rgba(197, 227, 229,10%);
+  color: grey;
+  font-style: oblique;
+  font-size: 25px;
+  font-family: 'Viaoda Libre', cursive;
+  text-align: center;
+}
+#jabberwocky{
+  float: left;
+  word-wrap: break-word;
+  word-break: break-all;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-top: 20px;
+  border-radius: 100%;
+}
+#bree{
+  float: right;
+  padding-left: 40px;
+  padding-right: 40px;
+  filter: saturate(125%);
+  border-radius: 50%;
+}
+#image{
+  text-align: center;
+  
+}
